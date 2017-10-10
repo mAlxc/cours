@@ -1,0 +1,49 @@
+{
+    "location_type": [
+        "appartement",
+        "maison",
+        "chambre",
+        "péniche"
+    ],
+    "Pays": [
+        "Etats Unis",
+        "France",
+        "Italie",
+        "Suisse",
+        "Espagne",
+        "Belgique",
+        "Canada",
+        "Portugal",
+        "Pays-Bas",
+        "Angleterre"
+    ],
+    "Ville": [
+        "Paris",
+        "Nantes",
+        "Brest",
+        "Los Angeles",
+        "Sedona",
+        "New York City",
+        "Berkeley",
+        "Madrid",
+        "Barcelone",
+        "Naples",
+        "Londres",
+        "Phoenix",
+        "Montréal",
+        "Bruges",
+        "Amsterdam",
+        "Genève",
+        "Morgins",
+        "Lisbonne"
+    ],
+    "Divers": [
+        "cuisine",
+        "douche",
+        "baignoire",
+        "toilettes",
+        "jardin",
+        "piscine",
+        "terrasse"
+    ]
+}

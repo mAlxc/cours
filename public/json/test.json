@@ -1,0 +1,388 @@
+{
+    "locations": [
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "appartement",
+                "espace": 26,
+                "adresse": "12, rue de la pomme",
+                "ville": "paris",
+                "pays": "France",
+                "owner": 1,
+                "divers": [
+                    "cuisine",
+                    "terrasse",
+                    "douche",
+                    "toilettes"
+                ]
+            },
+            "dispo": {
+                "deb": "01/08/2017",
+                "fin": "31/10/2017"
+            },
+            "booking": [
+            ]
+        },
+        {
+            "name": "Maison simple a Nantes",
+            "description": {
+                "type": "maison",
+                "espace": 120,
+                "adresse": "60, rue du chemin",
+                "ville": "Nantes",
+                "pays": "France",
+                "owner": 2,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "toilettes",
+                    "jardin"
+                ]
+            },
+            "dispo": {
+                "deb": "01/08/2017",
+                "fin": "31/10/2017"
+            },
+            "booking": [
+                {
+                    "deb": "12/03/2017",
+                    "fin": "15/03/2017",
+                    "user": "username"
+                }
+            ]
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "chambre",
+                "espace": 10,
+                "adresse": "5th avenue",
+                "ville": "New York City",
+                "pays": "Etats Unis",
+                "owner": 3,
+                "divers": [
+                    "cuisine",
+                    "douche"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "maison",
+                "espace": 200,
+                "adresse": "20th w Shannon st",
+                "ville": "phoenix",
+                "pays": "Etats Unis",
+                "owner": 4,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "baignoire",
+                    "toilettes",
+                    "jardin",
+                    "piscine"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "appartement",
+                "espace": 80,
+                "adresse": "6, rue du Cheuvreil",
+                "ville": "Montréal",
+                "pays": "Canada",
+                "owner": 5,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "toilettes"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "maison",
+                "espace": 70,
+                "adresse": "4th e Wesmister st",
+                "ville": "Berkeley",
+                "pays": "Etats Unis",
+                "owner": 6,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "toilettes",
+                    "baignoire"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "chambre",
+                "espace": 7,
+                "adresse": "5th Baker st",
+                "ville": "Londres",
+                "pays": "angleterre",
+                "owner": 7,
+                "divers": [
+                    "cuisine"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "maison",
+                "espace": 250,
+                "adresse": "15 calle del pollo loco",
+                "ville": "Barcelone",
+                "pays": "Espagne",
+                "owner": 8,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "baignoire",
+                    "toilettes",
+                    "jardin",
+                    "piscine",
+                    "terrasse"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "chambre",
+                "espace": 10,
+                "adresse": "10 calle del Sol",
+                "ville": "Madrid",
+                "pays": "Espagne",
+                "owner": 9,
+                "divers": [
+                    "douche"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "maison",
+                "espace": 112,
+                "adresse": "22, rue de la bière",
+                "ville": "Bruges",
+                "pays": "Belgique",
+                "owner": 10,
+                "divers": [
+                    "cuisine",
+                    "baignoire",
+                    "toilettes",
+                    "terrasse"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "appartement",
+                "espace": 26,
+                "adresse": "7th avenue",
+                "ville": "New York City",
+                "pays": "Etats Unis",
+                "owner": 11,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "toilettes"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "péniche",
+                "espace": 90,
+                "adresse": "13, Newveditch st",
+                "ville": "amsterdam",
+                "pays": "pays-Bas",
+                "owner": 12,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "toilettes",
+                    "terrasse"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "chambre",
+                "espace": 10,
+                "adresse": "51 calle grande",
+                "ville": "Lisbonne",
+                "pays": "portugal",
+                "owner": 13,
+                "divers": [
+                    "cuisine",
+                    "douche"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "maison",
+                "espace": 110,
+                "adresse": "23th avenue",
+                "ville": "Los angeles",
+                "pays": "Etats Unis",
+                "owner": 14,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "baignoire",
+                    "toilettes",
+                    "jardin",
+                    "piscine"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "appartement",
+                "espace": 70,
+                "adresse": "6, rue du Chêne",
+                "ville": "Montréal",
+                "pays": "Canada",
+                "owner": 15,
+                "divers": [
+                    "cuisine",
+                    "baignoire",
+                    "toilettes"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "maison",
+                "espace": 90,
+                "adresse": "41th e Badley st",
+                "ville": "Sedona",
+                "pays": "Etats Unis",
+                "owner": 16,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "toilettes",
+                    "baignoire",
+                    "piscine"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "chambre",
+                "espace": 12,
+                "adresse": "5, rue Kersentic",
+                "ville": "Brest",
+                "pays": "France",
+                "owner": 17,
+                "divers": [
+                    "douche"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "maison",
+                "espace": 250,
+                "adresse": "15, rue de la piste",
+                "ville": "Morgins",
+                "pays": "Suisse",
+                "owner": 18,
+                "divers": [
+                    "cuisine",
+                    "douche",
+                    "baignoire",
+                    "toilettes",
+                    "jardin",
+                    "terrasse"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "chambre",
+                "espace": 10,
+                "adresse": "10, rue de l'heure",
+                "ville": "Genève",
+                "pays": "Suisse",
+                "owner": 19,
+                "divers": [
+                    "terrasse"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        },
+        {
+            "name": "petit appartement rue de la pomme",
+            "description": {
+                "type": "maison",
+                "espace": 115,
+                "adresse": "22 ma que st",
+                "ville": "Naples",
+                "pays": "Italie",
+                "owner": 20,
+                "divers": [
+                    "cuisine",
+                    "baignoire",
+                    "toilettes",
+                    "terrasse"
+                ]
+            },
+            "dispo": {},
+            "booking": []
+        }
+    ]
+}
